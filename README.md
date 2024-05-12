@@ -98,3 +98,6 @@ Low-Level Design Overview
 4.  Load Balancing Strategy: The `LoadBalancingStrategy` interface defines a single method `getServer()`. Classes like `RoundRobinStrategy` and `RandomStrategy` implement this interface and provide their own logic to select a server.
 
 The `LoadBalancer` class has a `setStrategy()` method to change the load balancing strategy at runtime. This allows the system to easily switch between different strategies based on the current load or other factors.
+
+![image](https://github.com/surenaman9/LoadBalancer/assets/59416438/e7304bf3-191e-4c28-9e2f-5b53387d1a27)
+
