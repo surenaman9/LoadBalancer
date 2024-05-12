@@ -5,6 +5,8 @@ Table of Contents
 1.  Setting Up the Load Balancer
 2.  Call Flow Diagrams
 3.  Extending and Scaling the Implementation
+4.  High-Level Design Overview
+5.  Lowe-Level Design Overview
 
 Setting Up the Load Balancer
 ----------------------------
